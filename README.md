@@ -9,7 +9,7 @@ This project aims to provide an easy-to-use command-line utility for fetching da
 and rendering a portable image of a target protein.
 
 ## Dependencies
-This program depends on [BioJava](www.biojava.org).
+This program depends on [BioJava](http://www.biojava.org).
 
 ## Usage
 TODO: describe program usage.
